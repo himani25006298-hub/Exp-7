@@ -14,6 +14,6 @@ class stud:
             print("grade b")
         else:
             print("grade c")
-sneha=stud()
-sneha.findper()
-sneha.gradcal()
+hinani=stud()
+himani.findper()
+himani.gradcal()
