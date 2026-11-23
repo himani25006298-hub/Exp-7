@@ -9,8 +9,8 @@ class KSEC:
         print("divide:",self.y/self.x)
     def multiply(self):
         print("multiply:",self.x*self.y)
-sneha=KSEC()
-sneha.add()
-sneha.subtract()
-sneha.division()
-sneha.multiply()
+himani=KSEC()
+himani.add()
+himani.subtract()
+himani.division()
+himani.multiply()
